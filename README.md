@@ -1,4 +1,4 @@
-# Grasp-with-the-Unitree-D1
+# CPSL_D1_Arm
 
 Demonstrations of Using the Unitree D1 Robotic Arm to Open Cabinet Doors and Grasp Objects
 
